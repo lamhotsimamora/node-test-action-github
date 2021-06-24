@@ -1,0 +1,30 @@
+{
+  "name": "test-action-github",
+  "version": "1.0.0",
+  "description": "test-action",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lamhotsimamora/node-test-action-github.git"
+  },
+  "keywords": [
+    "test",
+    "action",
+    "githu",
+    "b"
+  ],
+  "author": "lamhotsimamora",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lamhotsimamora/node-test-action-github/issues"
+  },
+  "homepage": "https://github.com/lamhotsimamora/node-test-action-github#readme"
+}
